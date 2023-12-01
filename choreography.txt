@@ -1,0 +1,15 @@
+StandInit
+Rotation_handgun_object
+WipeForehead
+Double_movement
+StandZero
+Rotation_handgun_object
+Hello
+Rotation_handgun_object
+Stand
+Rotation_handgun_object
+Sit
+Double_movement
+SitRelax
+Rotation_handgun_object
+Crouch
